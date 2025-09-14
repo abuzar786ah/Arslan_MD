@@ -8,7 +8,7 @@
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "{"noiseKey":{"private":{"type":"Buffer","data":"sNG2eAFmB5hfqqqkd4+1UGry01z2c69mVPdbSHVIYEs="},"public":{"type":"Buffer","data":"LcYwBahhd+N0Q/B830ZcsiTs5G4saX+I7xVHWIyN3ig="}},"pairingEphemeralKeyPair":{"private":{"type":"Buffer","data":"cB0sD1Cb4e2vlyQQPRi1os6WZRulOiZL1nbDWBSv0XQ="},"public":{"type":"Buffer","data":"p/AVGt+s/blk8fiUa0zia4RBLdpFdSVTG0V7oHdkDxY="}},"signedIdentityKey":{"private":{"type":"Buffer","data":"KFfYhPrMdr6QssEsDCyBYct1zUipYjxSI9Hz2Fm3KU0="},"public":{"type":"Buffer","data":"wu6xlhLVPjXdLzQyPeA6TV7u0hwvas1nF6iDsRDB+iU="}},"signedPreKey":{"keyPair":{"private":{"type":"Buffer","data":"4L70ll79cvX0XX2ZzWNtG/InwzecObGq6dpfWJp2WGk="},"public":{"type":"Buffer","data":"rcRDnsqVTvb87vvWU/JT7UMCSc086ghestoHpc4hGw8="}},"signature":{"type":"Buffer","data":"qCDK70fdh6/9IEBe13lvG3GzGh++wHzg6Uo5DZgZ+XThv0l1vpebH7a4pur1ioLzk8u2CKcSDe8VVRQRqLrFgg=="},"keyId":1},"registrationId":38,"advSecretKey":"yh+d6OUZ1sKHiw1X83tOzajMy2ioUR5WiQmD/ULVKbo=","processedHistoryMessages":[],"nextPreKeyId":31,"firstUnuploadedPreKeyId":31,"accountSyncCounter":0,"accountSettings":{"unarchiveChats":false},"registered":true,"pairingCode":"9GX3JS3S","me":{"id":"923130948950:86@s.whatsapp.net","lid":"192388849004598:86@lid"},"account":{"details":"CP34y/sFEO2QmsYGGAEgACgA","accountSignatureKey":"7HQ0KSdw8koNp81vmxivoTtDOp0J1egKtPKNVh1cbUo=","accountSignature":"9Qtrwk7/lCLU50O7qymZDYkT4UPKVVMNrQVnXcLgNXox04Sto0J5eFODlyXOR7BBtfrtVvTIlGyldT02rcxFDA==","deviceSignature":"K9rrggJG/I9WFpq+omv1HhUn8iOKwIzBuFpK4Ftua0fJaAMdxccYdj999A5a8UyYa9Pbqqj2vgte9SbzG5oggg=="},"signalIdentities":[{"identifier":{"name":"923130948950:86@s.whatsapp.net","deviceId":0},"identifierKey":{"type":"Buffer","data":"Bex0NCkncPJKDafNb5sYr6E7QzqdCdXoCrTyjVYdXG1K"}}],"platform":"android","routingInfo":{"type":"Buffer","data":"CAUIAg=="},"lastAccountSyncTimestamp":1757841521,"lastPropHash":"1K4hH4","myAppStateKeyId":"AAAAALYd"}",
       "required": true,
       "value": ""
     },  
@@ -83,13 +83,13 @@
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
+      "description": "AbuXar-46",
       "required": false,
       "value": "ArslanMD Official"
 }, 
 
     "OWNER_NUMBER": {
-      "description": "put the owner number for bot.",
+      "description": "923130948950",
       "required": false,
       "value": "923237045919"
 
